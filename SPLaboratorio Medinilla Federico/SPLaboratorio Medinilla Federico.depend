@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1625669786 source:c:\users\federico\desktop\laboratorio parcial 2\splaboratorio medinilla federico\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"pais.h"
+
+1625171506 c:\users\federico\desktop\laboratorio parcial 2\splaboratorio medinilla federico\linkedlist.h
+
+1625669592 source:c:\users\federico\desktop\laboratorio parcial 2\splaboratorio medinilla federico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"misFuncionesGet.h"
+	"LinkedList.h"
+
+1624163304 c:\users\federico\desktop\laboratorio parcial 2\splaboratorio medinilla federico\misfuncionesget.h
+
+1624163304 source:c:\users\federico\desktop\laboratorio parcial 2\splaboratorio medinilla federico\misfuncionesget.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"misFuncionesGet.h"
+
+1625669373 source:c:\users\federico\desktop\laboratorio parcial 2\splaboratorio medinilla federico\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"pais.h"
+	"misFuncionesGet.h"
+	"parser.h"
+	"LinkedList.h"
+	"controller.h"
+
+1625661319 c:\users\federico\desktop\laboratorio parcial 2\splaboratorio medinilla federico\parser.h
+	"LinkedList.h"
+
+1625659487 c:\users\federico\desktop\laboratorio parcial 2\splaboratorio medinilla federico\controller.h
+
+1625668849 source:c:\users\federico\desktop\laboratorio parcial 2\splaboratorio medinilla federico\pais.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"misFuncionesGet.h"
+	"LinkedList.h"
+	"pais.h"
+	"controller.h"
+
+1625663446 c:\users\federico\desktop\laboratorio parcial 2\splaboratorio medinilla federico\pais.h
+
+1625663881 source:c:\users\federico\desktop\laboratorio parcial 2\splaboratorio medinilla federico\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"pais.h"
+	"parser.h"
+	"LinkedList.h"
+
